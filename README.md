@@ -17,8 +17,8 @@ of
 4. `Whether the player is American`
 
 
-##### FinalVersion.xlsx
-The info mentioned above gathered for each season each player
+##### FinalVersion.xlsx
+The info mentioned above gathered for each season each player
 
 
 
