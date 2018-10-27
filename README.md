@@ -25,7 +25,8 @@ of
 The info mentioned above gathered for each season each player
 
 ##### Required
-1. Chromedriver
+1. [Chromedriver](http://chromedriver.chromium.org)
+version:  2.43.600229
 
 ##### Python package
 1. Selenium
