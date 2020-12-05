@@ -1,6 +1,6 @@
 # [Basketball Reference ](https://www.basketball-reference.com/)
 
-## Prject OverView
+## Prject Overview
 ![](https://i.imgur.com/u2QHEMG.jpg)
 
 This project aims to collect **33892** players' bigraphical information, and award records, providing statistical data for research group at **NTNU** (National Taiwan Normal University).   
