@@ -1,6 +1,6 @@
 # [Basketball Reference ](https://www.basketball-reference.com/)
 
-## Prject Overview
+## Prject OverView
 ![](https://i.imgur.com/u2QHEMG.jpg)
 
 This project aims to collect **33892** players' bigraphical information, and award records, providing statistical data for research group at **NTNU** (National Taiwan Normal University).   
@@ -14,7 +14,8 @@ ex. Check whether the player was honored with the Hall of Fame or All Star shown
 ## Dynamic Page
 Since some personal information isn't revealed on requesting the url, Chromedriver is needed to mock human clicking a button and expand the section and finally get extended pages.
 
-![](https://i.imgur.com/8GhMt9x.png)
+![](https://i.imgur.com/nYvrDI0.png)
+
 
 
 ## Collet the following information with plain html
